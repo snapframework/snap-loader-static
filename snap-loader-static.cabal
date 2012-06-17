@@ -34,3 +34,7 @@ Library
     ghc-options: -Wall -fwarn-tabs -funbox-strict-fields -O2
                  -fno-warn-orphans
 
+source-repository head
+  type:     git
+  location: git://github.com/snapframework/snap-loader-static.git
+
